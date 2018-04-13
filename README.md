@@ -30,3 +30,7 @@ https://segmentfault.com/a/1190000009072224
 ## Ubuntu搭建：
 
 https://blog.csdn.net/so5418418/article/details/78355868  
+
+
+https://blog.csdn.net/Bearin/article/details/78260748
+
