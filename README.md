@@ -23,3 +23,10 @@ https://zhuanlan.zhihu.com/p/25070745
 
 Hyperledger Fabric V1.0 环境搭建
 https://segmentfault.com/a/1190000009072224
+
+
+
+
+Ubuntu搭建：
+
+https://blog.csdn.net/so5418418/article/details/78355868  
