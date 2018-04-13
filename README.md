@@ -1,14 +1,14 @@
 # block_chain
 
-官方：
+##  官方：
 1.1
 
 http://hyperledger-fabric.readthedocs.io     
+   
+1.0   
 
-1.0
 
-
-
+## 参考
 Fabric快速开始
 https://github.com/wbwangk/wbwangk.github.io/wiki/Fabric
 
@@ -27,6 +27,6 @@ https://segmentfault.com/a/1190000009072224
 
 
 
-Ubuntu搭建：
+## Ubuntu搭建：
 
 https://blog.csdn.net/so5418418/article/details/78355868  
